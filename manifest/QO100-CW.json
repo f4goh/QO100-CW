@@ -1,0 +1,17 @@
+{
+  "name": "QO100-CW",
+  "version": "2025.06.0-dev",
+  "home_assistant_domain": "QO100-CW",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",      
+      "parts": [
+        { "path": "../firmwares/QO100-CW/bootloader.bin", "offset": 4096 },
+        { "path": "../firmwares/QO100-CW/partitions.bin", "offset": 32768 },
+        { "path": "../firmwares/QO100-CW/firmware.bin", "offset": 65536 },
+		{ "path": "../firmwares/QO100-CW/spiffs_backup.bin", "offset": 2686976 }
+      ]
+    }
+  ]
+}
