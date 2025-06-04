@@ -14,7 +14,7 @@ I have redesigned the PCB because it was not available.
 
 ## PCB
 
-![board](images/PCB.png)
+![board](images/pcb.png)
 
 ## Web Control
 
