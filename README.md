@@ -8,6 +8,10 @@ I have redesigned the PCB because it was not available.
 
 ![board](images/trxQo100cw.jpg)
 
+![site](images/site.jpg)
+
+![sdr](images/sdr.png)
+
 ## Schématics
 
 ![board](schematics/QO100-CW.png)
@@ -15,6 +19,10 @@ I have redesigned the PCB because it was not available.
 ## PCB
 
 ![board](images/pcb.png)
+
+## PCB V2.0 for N male connector
+
+![board](images/pcbV2.png)
 
 ## Web Control
 
